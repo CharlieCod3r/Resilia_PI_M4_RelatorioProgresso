@@ -22,7 +22,10 @@ trabalho dos funcionários e incluir no relatório outros itens como:
 - Produtividade Diária (Tarefas Concluídas por Hora)
 
 ## Requisitos:
-- Google Colaborator (Colab necessita de navegador web)
+- Google Colaborator. Acesse clicando no ícone abaixo:
+  
+  <a href="https://colab.research.google.com/">
+        <img src="https://avatars.githubusercontent.com/u/33467679?s=280&v=4" width="100px"/>
 
 
 ## Instruções:
