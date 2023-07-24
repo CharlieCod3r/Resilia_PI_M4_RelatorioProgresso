@@ -24,8 +24,8 @@ trabalho dos funcionários e incluir no relatório outros itens como:
 ## Requisitos:
 - Google Colaborator. Acesse clicando no ícone abaixo:
   
-  <a href="https://colab.research.google.com/" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/33467679?s=280&v=4" width="100px"/>
+  <a href="https://colab.research.google.com/">
+        <img src="https://avatars.githubusercontent.com/u/33467679?s=280&v=4" width="100px" target="_blank" rel="noopener noreferrer"/> 
 
 
 ## Instruções:
@@ -34,7 +34,7 @@ trabalho dos funcionários e incluir no relatório outros itens como:
 ---
 ### Sobre mim:
 
-- Cristhian Monteiro (Meu Linkedin)<a href="https://www.linkedin.com/in/cristhian-monteiro/" target="_blank">
+- Cristhian Monteiro (Meu Linkedin)<a href="https://www.linkedin.com/in/cristhian-monteiro/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
 - Estudante de _Data Analytics_ na Instituição **Resilia Educação**
