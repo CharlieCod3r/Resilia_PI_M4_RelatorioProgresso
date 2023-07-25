@@ -29,8 +29,9 @@ trabalho dos funcionários e incluir no relatório outros itens como:
 
 
 ## Instruções:
-
-
+- COLAB, Abra o arquivo "Resilia_PI_M4_Produtividade.ipynb" dentro do programa: Arquivo > Fazer Upload de Notebook > Escolher arquivo > Selecione a pasta onde o arquivo está baixado.
+- Você também pode acessar o link do Relatório online abaixo: <p> <a href="https://colab.research.google.com/drive/1iIFeJUGlkKcc0RAz8EG4gEh3PhvUxIDU?usp=sharing/">Clicando Aqui</a></p>
+  
 ---
 ### Sobre mim:
 
