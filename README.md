@@ -42,7 +42,10 @@
 [SparkBy{Examples}](https://sparkbyexamples.com/pandas/pandas-dataframe-loc/)
 
 [Acervo Lima](https://acervolima.com/adicionar-coluna-ao-pandas-dataframe-com-um-valor-padrao/)
-  
+
+[Blog Opinion Box](https://blog.opinionbox.com/como-fazer-um-relatorio-de-pesquisa/)
+
+Aulas do curso Data Analytics na Resilia Educação, com os facilitadores Tech e Soft, Rafael Pilan e William Bradley
 ### Sobre mim:
 
 - Cristhian Monteiro (Meu Linkedin)<a href="https://www.linkedin.com/in/cristhian-monteiro/">
