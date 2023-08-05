@@ -45,7 +45,9 @@
 
 [Blog Opinion Box](https://blog.opinionbox.com/como-fazer-um-relatorio-de-pesquisa/)
 
-Aulas do curso Data Analytics na Resilia Educação, com os facilitadores Tech e Soft, Rafael Pilan e William Bradley
+[RunEbook](https://runebook.dev/pt/docs/pandas/reference/api/pandas.dataframe.plot.barh)
+
+Curso Data Analytics na Resilia Educação.
 ### Sobre mim:
 
 - Cristhian Monteiro (Meu Linkedin)<a href="https://www.linkedin.com/in/cristhian-monteiro/">
